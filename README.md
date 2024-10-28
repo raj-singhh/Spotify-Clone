@@ -19,5 +19,6 @@ I developed a Spotify clone using HTML, CSS, and JavaScript, accurately replicat
 This project highlights my ability to create sophisticated front-end designs and implement JavaScript functionalities for a seamless user experience.
 ![Screenshot (415)](https://github.com/user-attachments/assets/a02e0014-45b1-43bc-9e60-a290bbbb9c50)
 
-![Screenshot (410)](https://github.com/user-attachments/assets/70831aa0-ed3f-4881-abce-95303f08538b)
 
+
+![Screenshot (416)](https://github.com/user-attachments/assets/eed4131a-8d16-4610-bd5d-2ae9bcd36bb9)
