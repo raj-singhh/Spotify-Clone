@@ -1,4 +1,5 @@
 **Spotify Clone**
+
 I developed a Spotify clone using HTML, CSS, and JavaScript, accurately replicating the core functionalities and aesthetic appeal of the original Spotify platform. Key features of the project include:
 
 Modern User Interface: A visually appealing and responsive design that closely resembles Spotify's clean and sleek interface, with a dark theme and fluid animations.
